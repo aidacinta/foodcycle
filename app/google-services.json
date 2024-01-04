@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "85015099120",
+    "firebase_url": "https://food-cycle-8cc02-default-rtdb.firebaseio.com",
+    "project_id": "food-cycle-8cc02",
+    "storage_bucket": "food-cycle-8cc02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85015099120:android:12977020e2b3fc2f6f7435",
+        "android_client_info": {
+          "package_name": "com.cinta.foodcycle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdCi81Emjqu404gbw1dhLn2j7yXubKQBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

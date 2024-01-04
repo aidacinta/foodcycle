@@ -53,7 +53,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginTop="50dp"
         android:layout_marginEnd="16dp"
-        android:text="make your own username..."
+        android:text="Make Your Own Username..."
         android:textColor="@color/white"
         android:textSize="11dp"
         app:layout_constraintEnd_toEndOf="parent"
